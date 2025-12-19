@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Puji 👋
 
-<!--
-**Pujiarti/Pujiarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a *Sarjana Terapan Informatics Engineering graduate* with a strong interest in *application development and IT system support*.
 
-Here are some ideas to get you started:
+I completed the *Independent Study Program at Bangkit Academy (Kampus Merdeka), where I gained hands-on experience through **project-based learning*, particularly in application development, API integration, and collaborative software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Areas of Interest
+- Application Development
+- IT Application Support
+- System Support
+- Software Development
+
+## 🛠 Tech Stack
+- Programming: Kotlin (Android), Basic Python
+- Application: REST API, Firebase (basic)
+- Database: SQL / MySQL (basic)
+- Tools: Git, GitHub
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/pujiarti
+- Email: pujiartihandri@gmail.com
